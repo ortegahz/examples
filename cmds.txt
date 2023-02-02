@@ -1,0 +1,2 @@
+# compile
+bazel build --config=gcc_config //main:hello-world

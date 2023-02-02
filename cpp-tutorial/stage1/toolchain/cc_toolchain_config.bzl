@@ -83,7 +83,7 @@ def _impl(ctx):
         toolchain_identifier = "local",
         host_system_name = "local",
         target_system_name = "local",
-        target_cpu = "k8",
+        target_cpu = "aarch64",
         target_libc = "unknown",
         compiler = "gcc",
         abi_version = "unknown",
